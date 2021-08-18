@@ -11,7 +11,11 @@ A tarefa foi desenvolvida em JavaScript para servidor (NodeJs)
 O Node pode ser instalado através deste link: https://nodejs.org/en/
 
 ## ⚙️ Executando
-Para executar basta estar no diretório do arquivo main no prompt de comando (terminal) e digitar: node index.js
+Para executar basta estar no diretório do arquivo main no prompt de comando (terminal) e digitar: 
+
+```
+node index.js
+```
 
 Para trocar o valor de teste, abra o arquivo index e troque o valor que esta na variável: 
 
